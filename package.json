@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01-contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenserdiuk/goit-node-hw-01-contacts.git"
+  },
+  "keywords": [],
+  "author": "Olena Pianova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenserdiuk/goit-node-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/helenserdiuk/goit-node-hw-01-contacts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "yargs": "^17.6.0"
+  }
+}
